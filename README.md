@@ -45,11 +45,12 @@ observe Unipolar out at post OUT
 ![image](https://github.com/user-attachments/assets/d00335d6-a55d-48e6-8320-22beaf0341b6)
 
 ## TABLE
-![line](https://github.com/user-attachments/assets/ea1a176c-8ec6-40a0-adf9-d4ec00eae9ef)
+![image](https://github.com/user-attachments/assets/d8921e09-f30d-4381-ae20-1c6802ccb3f5)
+
 
 ## OUTPUT GRAPHS
-![Line coding Technique 1](https://github.com/user-attachments/assets/efca8120-1786-4f90-893a-08bf4297f2c4)
-![line coding](https://github.com/user-attachments/assets/3d6ca916-dae8-4c8a-aa50-e1c99f4a2610)
+![WhatsApp Image 2025-05-22 at 15 41 16_d50fcf07](https://github.com/user-attachments/assets/6e5c1f3e-c7e6-442d-bf9c-2e4162b56fd5)
+
 
 
 ## RESULT 
